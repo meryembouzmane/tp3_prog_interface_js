@@ -18,7 +18,7 @@ class Accueil {
                     Musée d'art contemporain de Montréal
                 </h1>
                 <div class="w-full h-64 mb-6">
-                    <img src="assets/img/musee1.jpg" class="w-full h-full object-cover rounded shadow-lg" alt="Salle d'exposition du musée">
+                    <img src="public/img/musee1.jpg" class="w-full h-full object-cover rounded shadow-lg" alt="Salle d'exposition du musée">
                 </div>
                 <h2 class="text-lg text-center text-slate-700">
                 <i class="fa-solid fa-palette"></i>

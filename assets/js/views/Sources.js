@@ -18,7 +18,7 @@ class Sources {
                 <i class="fa-solid fa-book-open"></i>
                 Sources des données</h2>
                 <div class="w-full h-60 mb-6">
-                  <img src="assets/img/musee2.jpg" class="w-full h-full object-cover rounded" alt="Architecture moderne du musée">
+                  <img src="public/img/musee2.jpg" class="w-full h-full object-cover rounded" alt="Architecture moderne du musée">
                 </div>
                 <p class="mb-4">
                     Cette application affiche des œuvres provenant du 
